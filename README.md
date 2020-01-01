@@ -4,7 +4,7 @@ This model is based on the paper by Samuel and Corr, the link to which is given 
   
 * [Low-pressure hydrogen plasmas explored using a global model, Plasma Sources Science and Technology, 2015](https://iopscience.iop.org/article/10.1088/0963-0252/25/1/015014/meta)  
 
-There are many more papers that I had to use to create this repo. I will add those links in the future.
+There are many more papers that I had to use to create this code. I will update the list later.
 
 ## Steps to run the code  
 
